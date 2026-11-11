@@ -20,5 +20,9 @@ MATLAB, Simulink, Simscape, and Simscape Multibody.
 - Natheephat 	Wangthongsookshiri	ID 6730136521 	— Symbolic analysis
 - Napat 	Ngansungnoen 		ID 6730139421 	— Multibody simulation
 
-https://github.com/user-attachments/assets/ff2704ce-fcc9-494c-a6b4-907ad154e12e
+
+
+https://github.com/user-attachments/assets/9d52045a-ffac-4ce1-a2c9-90581eefb63b
+
+
 
